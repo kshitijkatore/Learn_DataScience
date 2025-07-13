@@ -233,8 +233,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **GitHub**: [@kshitijkatore](https://github.com/kshitijkatore)
-- **LinkedIn**: [KShitij Katore](https://www.linkedin.com/in/kshitijkatore/)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Kshitij Katore](https://www.linkedin.com/in/kshitijkatore/)
+- **Email**: kshitijkatore18@gmail.com
 
 ## 🙏 Acknowledgments
 
