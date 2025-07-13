@@ -1,0 +1,5 @@
+Hello, thise file was created using write mode!
+Each eun will overwirte the previous contet.
+First lines
+Second line
+

@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,Stock
+201,Laptop,Electronics,1258.97,134
+202,Tablet,Electronics,1085.36,9
+203,Phone,Electronics,144.01,148
+204,Monitor,Electronics,527.11,124
+205,Keyboard,Electronics,231.13,108
+206,Mouse,Electronics,913.21,149
+207,Printer,Electronics,1254.3,23
+208,Router,Electronics,1223.63,27
+209,SSD,Electronics,542.74,65
+210,Webcam,Electronics,567.24,195
